@@ -1,0 +1,204 @@
+C:\Users\rstei\Desktop\Survival\SurvivalMod\obj\Debug\SurvivalMod.csprojResolveAssemblyReference.cache
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\SurvivalMod.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\SurvivalMod.pdb
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Assembly-CSharp.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\AstarPathfindingProject.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UI.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Bayat.SaveSystem.Runtime.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\XInputDotNetPure.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\ArchimedsLab.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Bayat.Json.Runtime.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\Bayat.Core.Runtime.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\obj\Debug\SurvivalMod.dll
+C:\Users\rstei\Desktop\Survival\SurvivalMod\obj\Debug\SurvivalMod.pdb
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\SurvivalMod.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\SurvivalMod.pdb
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AudioModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UI.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VideoModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Bayat.SaveSystem.Runtime.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Newtonsoft.Json.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ClothModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\XInputDotNetPure.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UIModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TerrainModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Pathfinding.ClipperLib.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Pathfinding.Poly2Tri.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\ArchimedsLab.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.WindModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Bayat.Json.Runtime.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\Bayat.Core.Runtime.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.DSPGraphModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AndroidJNIModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AIModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TilemapModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VFXModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VRModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.GridModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SubsystemsModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UNETModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.DirectorModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.StreamingModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TextCoreModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ARModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.XRModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.InputModule.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\obj\Debug\SurvivalMod.csprojResolveAssemblyReference.cache
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\obj\Debug\SurvivalMod.dll
+F:\Games\Yandere Sim Survival\Survival Mod Source\SurvivalMod\obj\Debug\SurvivalMod.pdb
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\SurvivalMod.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\SurvivalMod.pdb
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UI.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Bayat.SaveSystem.Runtime.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\XInputDotNetPure.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\ArchimedsLab.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Bayat.Json.Runtime.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\Bayat.Core.Runtime.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\obj\Debug\SurvivalMod.csprojResolveAssemblyReference.cache
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\obj\Debug\SurvivalMod.dll
+C:\Users\rstei\Desktop\Survival Mod Source\SurvivalMod\obj\Debug\SurvivalMod.pdb
